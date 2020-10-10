@@ -104,7 +104,7 @@ class VendorController2 extends Controller
         } else {
 
 
-    
+         //fghhjjvbj
            
             $user = new user ;
             $user->name = $request->input('name');
